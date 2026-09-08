@@ -1,0 +1,35 @@
+name: Mise à jour des données immobilières
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r scripts/requirements.txt
+
+      - name: Lancer la mise à jour des données
+        run: python scripts/update_data.py
+
+      - name: Commettre et pousser les changements (s'il y en a)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/logements.csv
+          git diff --staged --quiet || git commit -m "Mise à jour automatique des données immobilières"
+          git push
