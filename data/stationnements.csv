@@ -1,0 +1,142 @@
+ID_STA,ARRONDISSEMENT,NBR_PLA,JURIDICTION,EMPLACEMENT,HEURES,HOURS,NOTE_FR,Latitude,Longitude,Postal Code,FSA
+58,Ahunstic-Cartierville,22,Agence mobilité durable,Rue Fleury près de la rue Chambord (#335),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.560005,-73.658415,H2C 1R4,H2C
+91,Anjou,20,Municipale,Parc Lucie-Bruneau - 7051 av. de l'Alsace,06:00 à 18:00,6:00 am to 6:00 pm,,45.603318,-73.583299,H1J 2K6,H1J
+92,Anjou,20,Municipale,Parc André-Laurendeau - 8361 av. André-Laurendeau (accès par le boul.du Haut-Anjou),06:00 à 18:00,6:00 am to 6:00 pm,,45.603097,-73.569236,H1J 1T8,H1J
+93,Anjou,20,Municipale,"Bureau d'arrondissement - 7701, boul.Louis-H.Lafontaine",06:00 à 18:00,6:00 am to 6:00 pm,,45.601858,-73.558319,H1K 4B9,H1K
+94,Anjou,20,Municipale,"Aréna Chénier - 8200, av. Chénier",06:00 à 18:00,6:00 am to 6:00 pm,,45.601345,-73.541873,H1K 5E9,H1K
+95,Anjou,20,Municipale,"Aréna Chaumont - 8750, av. Chaumont",06:00 à 18:00,6:00 am to 6:00 pm,,45.611124,-73.546181,H1K 4E8,H1K
+96,Anjou,20,Municipale,"Édifice Roger-Rousseau - 7501, av. Rondeau",06:00 à 18:00,6:00 am to 6:00 pm,,45.616432,-73.551282,H1K 2P3,H1K
+97,Anjou,20,Municipale,"Édifice Centre Communautaire Anjou - 7800, boul. Métropolitain Est",06:00 à 18:00,6:00 am to 6:00 pm,,45.606394,-73.563375,H1K 1A1,H1K
+157,Côte-des-Neiges–Notre-Dame-de-Grâce,30,Municipale,"Aréna Bill-Durnan, 4988, rue Vézina",18:00 à 07:00,6:00 pm to 7:00 am,,45.495117,-73.644547,H3W 1C1,H3W
+158,Côte-des-Neiges–Notre-Dame-de-Grâce,20,Municipale,"Aréna Doug-Harvey, 4985, avenue West Hill",18:00 à 07:00,6:00 pm to 7:00 am,,45.471582,-73.638153,H3X 1Z1,H3X
+61,Lachine,11,Municipale,Parc Summerlea - Boul Saint-Joseph (entre 52e avenue et 54e avenue),24h,24h,,45.438322,-73.715797,H8T 1S4,H8T
+62,Lachine,80,Municipale,Parc Saint-Louis - Boulevard Saint-Joseph (entre 32e avenue et 34e avenue),24h,24h,,45.432777,-73.693461,H8T 1Z2,H8T
+63,Lachine,18,Municipale,"À l'est de la 32e av, entre la rue Notre-Dame et le boulevard Saint-Joseph",24h,24h,,45.434096,-73.691369,H8S 2H4,H8S
+64,Lachine,65,Municipale,La maison du brasseur,24h,24h,,45.433302,-73.690638,H8S 2P4,H8S
+65,Lachine,21,Municipale,Boulevard Saint-Joseph (entre 27e avenue et 28e avenue),24h,24h,,45.433936,-73.68857,H8S 2P3,H8S
+66,Lachine,26,Municipale,Parc des Saules,24h,24h,,45.433978,-73.686039,H8S 4B7,H8S
+67,Lachine,32,Municipale,"Club de Canoë de Course, 2105, boulevard Saint-Joseph",24h,24h,,45.432945,-73.683978,H8S 4B7,H8S
+68,Lachine,19,Municipale,Mairie - Boulevard Saint-Joseph (entre 18e avenue et 19e avenue),24h,24h,,45.433626,-73.680785,H8S 3P6,H8S
+69,Lachine,48,Municipale,Boulevard Saint-Joseph (entre 17e avenue et 18e avenue),24h,24h,,45.433299,-73.680375,H8S 3P7,H8S
+70,Lachine,47,Municipale,Boulevard Saint-Joseph entre la 11e avenue et la 12e avenue,24h,24h,,45.431657,-73.674159,H8S 2L3,H8S
+71,Lachine,142,Municipale,Parc René-Lévesque,24h,24h,,45.428509,-73.672373,H8S 4J5,H8S
+72,Lachine,25,Municipale,Musée Lachine,24h,24h,,45.429474,-73.66628,H8R 3T4,H8R
+73,Lachine,94,Municipale,Rue Victoria entre la 6e avenue et la 1ère avenue,24h,24h,,45.437983,-73.667148,H8S,H8S
+74,Lachine,60,Municipale,Rue Notre-Dame (entre 6e avenue et 7e avenue),24h,24h,,45.435902,-73.669788,H8S 2Z4,H8S
+75,Lachine,143,Municipale,Rue Victoria et rue William-McDonald entre la 6e et la 10e avenue,24h,24h,,45.437267,-73.671364,H8S 1Z8,H8S
+76,Lachine,110,Municipale,Rue Victoria et rue William-MacDonald entre la 15e avenue et la 10e avenue,24h,24h,,45.436306,-73.676563,H8S 3L1,H8S
+77,Lachine,85,Municipale,Rue Victoria et rue William-MacDonald entre la 17e avenue et la 15e avenue,24h,24h,,45.43593,-73.678517,H8S 1Z1,H8S
+78,Lachine,55,Municipale,Entre Rue Saint-Louis et rue Notre-Dame (entre 9e avenue et 8e avenue),24h,24h,,45.434206,-73.671227,H8S 3B9,H8S
+79,Lachine,63,Municipale,Entre Rue Saint-Louis et rue Notre-Dame (entre 11e avenue et 10e avenue),24h,24h,,45.434342,-73.673081,H8S 3G5,H8S
+81,Lachine,52,Municipale,Rue Notre-Dame (entre 13e avenue et 12e avenue),24h,24h,,45.435414,-73.67509,H8S 3J1,H8S
+82,Lachine,20,Municipale,Rue Notre-Dame (entre 11e avenue et 12e avenue),24h,24h,,45.435344,-73.674081,H8S 3H9,H8S
+83,Lachine,51,Municipale,Aréna Pierre Pete Morin,24h,24h,,45.440103,-73.681918,H8S 3T3,H8S
+84,LaSalle,63,Municipale,"Chevalier de Colomb - 7710, boulevard LaSalle",24h,24h,,45.429143,-73.593037,H8P 1X6,H8P
+86,LaSalle,104,Municipale,Parc Riverside (rue Raymond et rue Centrale),24h,24h,,45.420272,-73.609681,H8P 3L2,H8P
+87,LaSalle,28,Municipale,Parc Dollier-de Casson - (rue Beauchamps/rue St-Patrick),24h,24h,,45.433653,-73.659748,H8R 3Z4,H8R
+89,LaSalle,192,Municipale,"Aréna Jacques-Lemaire - 8681, boulevard Champlain",24h,24h,,45.418123,-73.62297,H8P 1B8,H8P
+90,LaSalle,42,Municipale,"rue Centrale/4e avenue (derrière le #7648, rue Centrale)",24h,24h,,45.431153,-73.597242,H8P 1L3,H8P
+115,LaSalle,149,Municipale,"Mairie d'arrondissement, 55, av. Dupras",24h,24h,,45.428692,-73.662022,H8R 4A8,H8R
+171,LaSalle,110,Municipale,"Bibliothèque L'Octogone - 1080, avenue Dollard ",21:00 à 10:00,9:00 pm to 10:00 am,,45.423548,-73.623338,H8N 2T9,H8N
+44,Le Plateau-Mont-Royal,113,Agence mobilité durable,Rue Sherbrooke entre la rue Calixa-Lavallée et le Parc Lafontaine (#139),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.523263,-73.565734,H2L 1M3,H2L
+163,Le Plateau-Mont-Royal,43,Agence mobilité durable,"Rue Saint-Dominique, entre le rue Saint-Viateur Est et la rue Bernard Est (#270)",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.527736,-73.600078,H2T 1V6,H2T
+24,Le Sud-Ouest,735,Agence mobilité durable,"Parc Angrignon, sur le boul. des Trinitaires au nord du boul. De La Vérendrye à l'angle de la rue Lacroix (#243)",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.445336,-73.602511,,
+60,Le Sud-Ouest,221,Municipale,"Complexe Gadbois, accès rue Notre-Dame Ouest",18:00 à 07:00,6:00 pm to 7:00 am,,45.466798,-73.595243,H4C 1X3,H4C
+147,Mercier - Hochelaga-Maisonneuve,41,Municipale,"Aréna Francis-Bouillon - 3175, rue de Rouen",21:00 à 08:00,9:00 pm to 8:00 am,"28 places situées sur le côté ont un maximum de 2 h, du lundi au vendredi entre 8 h et 16 h",45.54119,-73.551772,H1W 1K6,H1W
+148,Mercier - Hochelaga-Maisonneuve,25,Municipale,"Aréna Saint-Donat - 6750, rue de Marseille",21:00 à 08:00,9:00 pm to 8:00 am,Accès par l'avenue Parkville,45.582567,-73.53746,H1N 1M5,H1N
+149,Mercier - Hochelaga-Maisonneuve,35,Municipale,"Aréna Clément-Jetté - 8780, avenue Dubuisson",21:00 à 08:00,9:00 pm to 8:00 am,,45.601774,-73.515967,H1L 4V2,H1L
+152,Mercier - Hochelaga-Maisonneuve,2,Municipale,"Bain Morgan - 1875, avenue Morgan",21:00 à 08:00,9:00 pm to 8:00 am,,45.553362,-73.53856,H1V 2R1,H1V
+153,Mercier - Hochelaga-Maisonneuve,18,Municipale,"Piscine Pierre-Lorange - 1870, rue Davidson",21:00 à 08:00,9:00 pm to 8:00 am,,45.542515,-73.545742,H1W 1P7,H1W
+100,Montréal-Nord,60,Municipale,"Mairie d'arrondissement, 4243, rue de Charleroi",19:00 à 07:00,7:00 pm to 7:00 am,,45.593967,-73.637552,H1H 5R5,H1H
+101,Montréal-Nord,18,Municipale,"Rue de Charleroi (côté sud), entre l'avenue Saint-Julien et l'avenue Hébert",19:00 à 07:00,7:00 pm to 7:00 am,,45.593186,-73.638144,H1H 3X2,H1H
+102,Montréal-Nord,130,Municipale,"Stationnement Aréna Garon, 11212 rue Garon",19:00 à 07:00,7:00 pm to 7:00 am,,45.59522,-73.638881,H1H 1P3,H1H
+103,Montréal-Nord,18,Municipale,"Parc Paul-Sauvé, entrée sur la rue de Bayonne",19:00 à 07:00,7:00 pm to 7:00 am,,45.598948,-73.635501,H1H 1N7,H1H
+104,Montréal-Nord,120,Municipale,"Centre de loisirs de Montréal-Nord, 11121, avenue Salk",19:00 à 07:00,7:00 pm to 7:00 am,,45.601831,-73.622931,H1G 4Y3,H1G
+105,Montréal-Nord,59,Municipale,"Maison culturelle et communautaire, 12004, boulevard Rolland (stat. arrière)",19:00 à 07:00,7:00 pm to 7:00 am,,45.615972,-73.621388,H1G 3T2,H1G
+106,Montréal-Nord,28,Municipale,"Bibliothèque Henri-Bourassa, 5400 boulevard Henri-Bourassa Est",19:00 à 07:00,7:00 pm to 7:00 am,,45.604545,-73.624948,H1G 2W8,H1G
+107,Montréal-Nord,28,Municipale,"Aréna Fleury, 3700 rue Fleury Est (stat. arrière)",19:00 à 07:00,7:00 pm to 7:00 am,,45.582842,-73.636895,H1H 4N5,H1H
+108,Montréal-Nord,20,Municipale,"Rue de Mont-Joli (côté nord), entre avenue Audoin et avenue Lausanne",19:00 à 07:00,7:00 pm to 7:00 am,,45.578525,-73.639824,H1H 5E2,H1H
+110,Montréal-Nord,10,Municipale,"Parc Ottawa, 10400, avenue de Belleville",19:00 à 07:00,7:00 pm to 7:00 am,,45.581832,-73.64252,H1H 4Z7,H1H
+169,Montréal-Nord,15,Municipale,Av. Bellevois et boul. Léger (coin N/E),19:00 à 07:00,7:00 pm to 7:00 am,,45.60321,-73.63731,H1H 1N4,H1H
+6,Outremont,10,Municipale,sud de Van Horne entre Querbes et Épée (stat. nos 6 et 8),18:00 à 08:00,6:00 pm to 8:00 am,,45.523227,-73.611805,H2V 3V1,H2V
+7,Outremont,5,Municipale,nord de Van Horne entre Champagneur et Bloomfield (stat. no 18),18:00 à 08:00,6:00 pm to 8:00 am,,45.522623,-73.613711,H2V 3S6,H2V
+8,Outremont,9,Municipale,nord de Bernard entre Épée et Querbes (stat. no 7),18:00 à 08:00,6:00 pm to 8:00 am,,45.521584,-73.608192,H2V 3T7,H2V
+9,Outremont,13,Municipale,nord de Bernard entre Bloomfield et Épée (stat. no 17),18:00 à 08:00,6:00 pm to 8:00 am,,45.521305,-73.608627,H2V 3T8,H2V
+10,Outremont,10,Municipale,nord de Bernard entre Champagneur et Bloomfield (stat. no 10),18:00 à 08:00,6:00 pm to 8:00 am,,45.520558,-73.609035,H2V 3S1,H2V
+11,Outremont,12,Municipale,nord de Bernard entre Wiseman et Outremont (stat. no 16),18:00 à 08:00,6:00 pm to 8:00 am,,45.518811,-73.610299,H2V 1W1,H2V
+12,Outremont,15,Municipale,nord de Édouard-Charles entre Querbes et Hutchison (stat. no 12),18:00 à 08:00,6:00 pm to 8:00 am,,45.517671,-73.596741,H2V 2N3,H2V
+13,Outremont,8,Municipale,nord de Laurier entre Querbes et Durocher (stat. no 14),18:00 à 08:00,6:00 pm to 8:00 am,,45.518111,-73.597843,H2V 3X8,H2V
+48,Outremont,8,Municipale,nord de l'avenue Laurier entre Durocher et Hutchison (stat. no 13),18:00 à 08:00,6:00 pm to 8:00 am,,45.518408,-73.597575,H2V 3X7,H2V
+49,Outremont,17,Municipale,nord de l'avenue Laurier entre Querbes et Épée (stat. 15),18:00 à 08:00,6:00 pm to 8:00 am,,45.517571,-73.598508,H2V 3V9,H2V
+112,Rivière-des-Prairies-Pointe-aux-Trembles,30,Municipale,"Aréna Rodrigue-Gilbert, 1515, Boulevard du Tricentenaire",19:00 à 07:00,7:00 pm to 7:00 am,,45.651957,-73.500776,H1B 3A9,H1B
+113,Rivière-des-Prairies-Pointe-aux-Trembles,12,Municipale,"Centre aquatique de Rivière-des-Prairies-Pointe-aux-Trembles, 12515, boulevard Rodolphe-Forget",19:00 à 07:00,7:00 pm to 7:00 am,,45.650611,-73.579783,H1E 3J7,H1E
+114,Rivière-des-Prairies-Pointe-aux-Trembles,10,Municipale,"Bibliothèque de Pointe-aux-Trembles, 14001, rue Notre-Dame Est",19:00 à 07:00,7:00 pm to 7:00 am,,45.668469,-73.494894,H1A 1T9,H1A
+164,Rivière-des-Prairies-Pointe-aux-Trembles,30,Municipale,"Parc Saint-Joseph
+9909, 68e Avenue",19:00 à 07:00,7:00 pm to 7:00 am,,45.662044,-73.562926,H1C 1W3,H1C
+156,Rivière-des-Prairies-Pointe-aux-Trembles,11,Municipale,Intersection du boul. Saint-Jean-Baptiste et rue Victoria,19:00 à 7:00,7:00 pm to 7:00 am,,45.640878,-73.492279,H1B 3Y1,H1B
+25,Rosemont - La Petite-Patrie,31,Agence mobilité durable,Rue Saint-André entre la rue Beaubien et la rue Bellechasse (#303),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.536033,-73.601523,H2S 2K6,H2S
+27,Rosemont - La Petite-Patrie,27,Agence mobilité durable,8e Avenue entre la rue Dandurand et la rue Masson (#75),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.549649,-73.574677,H1Y 2L5,H1Y
+28,Rosemont - La Petite-Patrie,100,Agence mobilité durable,Rue Boyer entre la rue Beaubien et la rue Saint-Zotique (#24),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.537901,-73.604997,H2S 2J3,H2S
+35,Rosemont - La Petite-Patrie,19,Agence mobilité durable,"Rue Saint-André, entre la rue Beaubien Est et la rue Bellechasse (#302)",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.535404,-73.600178,H2S 2K5,H2S
+39,Rosemont - La Petite-Patrie,326,Agence mobilité durable,"4101, rue Sherbrooke Est (P1). Jardin botanique.",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.557301,-73.55504,H1X 2B2,H1X
+166,Rosemont - La Petite-Patrie,265,Agence mobilité durable,"4581, rue Sherbrooke Est (P2). Insectarium.",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.561717,-73.558221,H1X 2B1,H1X
+47,Rosemont - La Petite-Patrie,45,Agence mobilité durable,Rue Saint-André entre la rue Jean-Talon et la rue Bélanger (#191),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.540846,-73.612006,H2S 2L3,H2S
+137,Saint-Laurent,25,Municipale,"Parc Noël-Nord, 3110, boulevard Toupin",18:00 à 08:00,6:00 pm to 8:00 am,,45.517358,-73.726668,H4K 1Y8,H4K
+138,Saint-Laurent,16,Municipale,"Parc Noël-Sud, 3005, rue Matis",18:00 à 08:00,6:00 pm to 8:00 am,,45.515425,-73.727803,H4R 1A4,H4R
+139,Saint-Laurent,11,Municipale,"Parc Beaulac, 1145, rue Elizabeth",18:00 à 08:00,6:00 pm to 8:00 am,,45.519789,-73.678227,H4L 4L1,H4L
+140,Saint-Laurent,19,Municipale,"Parc Saint-Laurent, 845, rue Poirier",18:00 à 08:00,6:00 pm to 8:00 am,,45.527843,-73.685642,H4L 4T2,H4L
+141,Saint-Laurent,180,Municipale,"Complexe sportif, 2385, boulevard Thimens",18:00 à 08:00,6:00 pm to 8:00 am,,45.5072,-73.701789,H4R,H4R
+142,Saint-Laurent,80,Municipale,"Centre des loisirs, 1375, rue Grenet",18:00 à 08:00,6:00 pm to 8:00 am,,45.514005,-73.690032,H4L 1W9,H4L
+143,Saint-Laurent,70,Municipale,"Mairie d'arrondissement, 777, boulevard Marcel-Laurin",18:00 à 08:00,6:00 pm to 8:00 am,,45.507512,-73.682368,H4M 2M7,H4M
+144,Saint-Laurent,30,Municipale,"1694, boulevard Jules-Poitras (terrain)",24h,24h,,45.528537,-73.682503,H4N 1Z3,H4N
+14,Saint-Léonard,40,Municipale,"Rue Jarry (côté sud, à l'ouest du boul. Langelier)",18:00 à 07:00,6:00 pm to 7:00 am,,45.593457,-73.582413,H1P 1V9,H1P
+15,Saint-Léonard,84,Municipale,Rue Jarry Est (côté nord) à l'ouest de la rue du Cap,18:00 à 07:00,6:00 pm to 7:00 am,,45.582138,-73.593879,H1R 1Y4,H1R
+16,Saint-Léonard,32,Municipale,"Parc Ladauversière, entrée par la rue de Lisieux",18:00 à 07:00,6:00 pm to 7:00 am,,45.580643,-73.584163,H1S 2G8,H1S
+18,Saint-Léonard,100,Municipale,"Parc Wilfrid-Bastien, entrée par le boul. Lacordaire entre des Galets et boul. Robert",18:00 à 07:00,6:00 pm to 7:00 am,,45.586653,-73.595886,H1R 2A3,H1R
+19,Saint-Léonard,50,Municipale,"Parc Ladauversière, 7560, boulevard Lacordaire",18:00 à 07:00,6:00 pm to 7:00 am,,45.58183,-73.583695,H1S 2Z9,H1S
+20,Saint-Léonard,31,Municipale,"Parc Pie-XII, entrée par le boulevard Lavoisier entre la rue Daillon et la rue Jean-Marie-Lefebvre",18:00 à 07:00,6:00 pm to 7:00 am,,45.589875,-73.60668,H1R 3M8,H1R
+21,Saint-Léonard,16,Municipale,"Parc Coubertin, 4755, rue Valéry",18:00 à 07:00,6:00 pm to 7:00 am,,45.583428,-73.609904,H1R 1H9,H1R
+22,Saint-Léonard,9,Municipale,"6025, boul. Métropolitain Est,  entre les rues de la Salette et Louis-Vanier",18:00 à 07:00,6:00 pm to 7:00 am,,45.589543,-73.58301,H1P 2J8,H1P
+23,Saint-Léonard,91,Municipale,Voirie des travaux publics - Intersection boul. Métropolitain Est et rue Louis-Vanier,18:00 à 07:00,6:00 pm to 7:00 am,,45.589074,-73.584035,H1P 1X5,H1P
+33,Saint-Léonard,134,Municipale,Aréna Roberto-Luongo (entrée par le boul. Métropolitain et par la rue Colbert),18:00 à 07:00,6:00 pm to 7:00 am,,45.573633,-73.595492,H1S 2Y7,H1S
+34,Saint-Léonard,16,Municipale,"Parc Ferland, 6020, boul. Lavoisier",18:00 à 07:00,6:00 pm to 7:00 am,,45.596598,-73.599648,H1P 2Y9,H1P
+40,Saint-Léonard,45,Municipale,"Maison Joseph-Gagnon, coin rue Jarry Est et boul. Lacordaire",18:00 à 07:00,6:00 pm to 7:00 am,,45.584227,-73.592319,H1P 1T8,H1P
+41,Saint-Léonard,32,Municipale,"7800, rue de la Salette, entrée par le boul. Métropolitain Est",18:00 à 07:00,6:00 pm to 7:00 am,,45.589407,-73.58369,H1P 1X5,H1P
+50,Saint-Léonard,47,Municipale,"Parc Giuseppe-Garibaldi, 7125, rue Liénart",18:00 à 07:00,6:00 pm to 7:00 am,,45.585708,-73.572086,H1S 1W6,H1S
+51,Saint-Léonard,18,Municipale,"Parc Hébert, 7505, boulevard Povencher",18:00 à 07:00,6:00 pm to 7:00 am,,45.571809,-73.591991,H1S 2Y8,H1S
+52,Saint-Léonard,619,Municipale,"Mairie d'arrondissement, 8400, boul. Lacordaire (entrée par la rue des Galets)",18:00 à 07:00,6:00 pm to 7:00 am,,45.585059,-73.598036,H1R 1P9,H1R
+53,Saint-Léonard,12,Municipale,"Parc Luigi-Pirendello, 4550, rue de Compiègne",18:00 à 07:00,6:00 pm to 7:00 am,,45.579015,-73.604163,H1R,H1R
+162,Saint-Léonard,14,Municipale,"Rue Arthur-Péloquin, au coin de la rue Jean-Rivard",18:00 à 07:00,6:00 pm to 7:00 am,,45.579628,-73.599552,H1R 2S8,H1R
+118,Verdun,30,Agence mobilité durable,"Chalet du parc Arthur-Therrien, 3750, boulevard Gaétan-Laberge (AMD # 502)",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.466383,-73.56189,H4G,H4G
+119,Verdun,104,Agence mobilité durable,"Parc Richard, boulevard LaSalle, entrée située entre la 2e et la 3e avenues (AMD #503)",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.456933,-73.563025,H4G CA,H4G
+120,Verdun,100,Municipale,"Quai, 5160, boulevard LaSalle",en tout temps-max 4h,at all time – max 4h,en tout temps-max 4h,45.453795,-73.56554,H4H 1N8,H4H
+121,Verdun,41,Municipale,"Parc Desmarchais, 5160, boulevard LaSalle",18:00 à 09:00,6:00 pm to 9:00 am,,45.454433,-73.564372,H4G 3G2,H4G
+122,Verdun,22,Agence mobilité durable,"boulevard LaSalle, à l'est de la 1ere avenue - côté sud (AMD #508)",21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.458642,-73.562976,H4G 2B1,H4G
+123,Verdun,22,Municipale,passage Albert-Denault,en tout temps-max 24h,at all time – max 24h,en tout temps-max 24h,45.468437,-73.566273,H4G 1T2,H4G
+124,Verdun,5,Municipale,"Bibliothèque Jacqueline-De Repentigny (stat. à l'arrière, sur l'ave Brown)",17:00 à 08:00,5:00 pm to 8:00 am,,45.448392,-73.578386,H4H 2A8,H4H
+127,Verdun,29,Municipale,"Rue Willibrord (côté nord), entre la rue de Verdun et la rue Wellington",en tout temps-max 8h,at all time – max 8h,,45.459573,-73.569582,H4G 2T7,H4G
+126,Verdun,61,Municipale,Parc Arthur-Therrien - derrière l'école secondaire Mgr.-Richard,15:00 à 07:00,3:00 pm to 7:00 am,,45.469496,-73.560853,H4G 3C2,H4G
+129,Verdun,34,Municipale,"Centre communautaire Marcel-Giroux, 4501, ave Bannantyne (accès par la rue Willibrord)",18:00 à 08:00,6:00 pm to 8:00 am,,45.459365,-73.577002,H4G 2V1,H4G
+128,Verdun,39,Municipale,"Parc De La Fontaine, accès par la Place de la Fontaine",en tout temps-max 24h,at all time – max 24h,en tout temps-max 24h,45.463486,-73.543945,H3E 1G7,H3E
+117,Verdun,53,Municipale,"Rue Elgar, près du #260",18:00 à 08:00,6:00 pm to 8:00 am,3h maximum entre 8h-18h,45.457,-73.546661,H3E 1C9,H3E
+45,Ville-Marie,36,Agence mobilité durable,Rue Notre-Dame entre la rue De l'Inspecteur et la rue De la Cathédrale (AMD #207),21:00 à 07:00,9:00 pm to 7:00 am,"Sauf places réservées
+Restriction de 21h à 7h",45.496765,-73.562568,H3C 0K3,H3C
+133,Villeray-Saint-Michel-Parc-Extension,100,Municipale,"Aréna Saint-Michel, 3440, rue Jarry Est (stat. arrière)",18:00 à 07:00,6:00 pm to 7:00 am,,45.564968,-73.606049,H1Z 3N1,H1Z
+134,Villeray-Saint-Michel-Parc-Extension,75,Municipale,"Centre sportif Jean-Rougeau, 8000 rue de Normanville",18:00 à 07:00,6:00 pm to 7:00 am,,45.548621,-73.622352,H2R 2V6,H2R
+154,Villeray-Saint-Michel-Parc-Extension,100,Municipale,Parc Jarry - coin de l'avenue de l'Esplanade et la rue Jarry Ouest,18:00 à 07:00,6:00 pm to 7:00 am,,45.535953,-73.63163,,
+170,Villeray-Saint-Michel-Parc-Extension,25,Municipale,Arena Howie Morentz,18:00 à 07:00,6:00 pm to 7:00 am,,45.534062,-73.643831,H3N 2X4,H3N
+167,Villeray-Saint-Michel-Parc-Extension,20,Municipale,parc Julie-Hamelin - 40 rue Deville,18:00 à 07:00,6:00 pm to 7:00 am,,45.56337,-73.618049,H1Z 4M6,H1Z
