@@ -1,0 +1,9 @@
+streamlit>=1.38
+pandas
+matplotlib
+seaborn
+folium
+streamlit-folium
+geopy
+pydeck
+babel
